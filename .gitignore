@@ -8,7 +8,7 @@
 /.bundle
 
 # Ignore seed data
-/db/seeds.rb
+/app/db/seeds.rb
 
 # Ignore all logfiles and tempfiles.
 /log/*
