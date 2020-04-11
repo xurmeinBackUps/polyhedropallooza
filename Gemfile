@@ -54,4 +54,6 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 gem 'devise'
 gem 'faker'
 gem 'jwt'
+gem 'pundit'
+gem 'rolify'
 gem 'rspec'
